@@ -1,0 +1,30 @@
+{
+  "nl": {
+    "homepage": {
+      "title": "Voorbeeld titel",
+      "paragraph": "Dit is een voorbeeld van een paragraaf.",
+      "welcome": "Welkom gebruiker!"
+    }
+  },
+  "en": {
+    "homepage": {
+      "title": "Example title",
+      "paragraph": "This is an example of a paragraph.",
+      "welcome": "Welcome user!"
+    }
+  },
+  "fr": {
+    "homepage": {
+      "title": "Titre d'exemple",
+      "paragraph": "Ceci est un exemple de paragraphe.",
+      "welcome": "Bienvenue utilisateur!"
+    }
+  },
+  "es": {
+    "homepage": {
+      "title": "Título de ejemplo",
+      "paragraph": "Este es un ejemplo de un párrafo.",
+      "welcome": "¡Bienvenido usuario!"
+    }
+  }
+}
